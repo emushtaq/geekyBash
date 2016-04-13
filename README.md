@@ -5,7 +5,7 @@ Add the following scripts to your .bashrc/.zshrc or any other bash config
 
 - Weather
 
-A simple wrapper which picks the city argument and passes it to the super cool wttr API.
+A simple wrapper which picks the city argument and passes it to the super cool wttr API (which internally pokes the WorldWeatherOnline API).
 
 ```
 weather() {
