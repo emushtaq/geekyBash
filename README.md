@@ -17,4 +17,6 @@ and when you want to check the weather from your terminal, you just run `weather
 `weather kaiserslautern`
 and you get a well formatted weather forecast for the city that you enter in the terminal.
 
+![Alt text](https://cloud.githubusercontent.com/assets/10843074/14499253/d5cac428-019d-11e6-8c6f-fa7dffe81859.png)
+
 Check out more from the developer of the wttr API [https://github.com/chubin/wttr.in]
